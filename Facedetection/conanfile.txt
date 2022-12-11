@@ -1,0 +1,8 @@
+[requires]
+opencv/4.5.5
+
+[generators]
+cmake
+
+[options]
+opencv:with_v4l=True
